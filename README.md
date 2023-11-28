@@ -16,6 +16,7 @@ Task 1:
 
 Cloned the project from the GitHub link shared in resources to your local machine.
 Built the code using Maven commands.
+
 Task 2:
 
 Set up the Git repository and pushed the source code.
@@ -26,12 +27,14 @@ Testing source code
 Packing the code
 Executed the CI/CD pipeline to execute the jobs created in step 1.
 Set up a master-slave node to distribute the tasks in the pipeline.
+
 Task 3:
 
 Wrote a Dockerfile.
 Created an Image and container on the Docker host.
 Integrated docker host with Jenkins.
 Created CI/CD job on Jenkins to build and deploy on a container.
+
 Task 4:
 
 Integrated the Docker host with Ansible.
